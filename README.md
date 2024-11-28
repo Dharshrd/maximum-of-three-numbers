@@ -1,4 +1,4 @@
-# maximum-of-three-numbers
+# maximum of numbers
 
     public class MaxOfThreeNumbers {
     
